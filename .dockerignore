@@ -1,0 +1,6 @@
+k8s
+node_modules
+.envrc
+.envrc-example
+README.md
+skaffold.yaml
