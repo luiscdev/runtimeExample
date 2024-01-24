@@ -1,3 +1,0 @@
-export PORT=3000
-
-export PG_PASSWORD=123456
